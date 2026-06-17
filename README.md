@@ -40,14 +40,22 @@
 
 ## 📂 Featured Projects
 
-### 🔹 Smart College Assistant
-TypeScript-based assistant project focused on improving student interaction and accessibility.
+### 🌟 VibeVerse
 
-### 🔹 Fake Certificate Detection ML
-Machine Learning project using Python to identify fake certificates and improve verification systems.
+A modern social platform designed for introverts to connect through shared interests, communities, and meaningful interactions. Built using Next.js and Flask with a focus on user experience and engagement.
 
-### 🔹 House Price Prediction
-Linear Regression based machine learning project for predicting house prices using data analysis techniques.
+### 🎓 Smart College Assistant
+
+Full-stack student assistance platform featuring academic resources, chatbot support, attendance management, and student-focused services.
+
+### 🔐 Fake Certificate Detection ML
+
+Machine Learning project focused on identifying potentially fake certificates and improving document verification systems.
+
+### 🏠 House Price Prediction
+
+Machine Learning project using Linear Regression techniques to predict house prices based on real-world datasets.
+
 
 ---
 
