@@ -44,25 +44,38 @@
 
 A modern social platform designed for introverts to connect through shared interests, communities, and meaningful interactions. Built using Next.js and Flask with a focus on user experience and engagement.
 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Spotify_API](https://img.shields.io/badge/Spotify_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
 ### 🎓 [Smart College Assistant](https://github.com/heena-jindal/smart-college-assistant)
 
 Full-stack student assistance platform featuring academic resources, chatbot support, attendance management, and student-focused services.
 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
 ### 🔐 Fake Certificate Detection ML
 
 Machine Learning project focused on identifying potentially fake certificates and improving document verification systems.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🏠 House Price Prediction
 
 Machine Learning project using Linear Regression techniques to predict house prices based on real-world datasets.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-0A66C2?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
 ---
@@ -86,9 +99,9 @@ Machine Learning project using Linear Regression techniques to predict house pri
 
 ## 📊 GitHub Stats
 
-![Heena's GitHub stats](https://github-readme-stats.vercel.app/api?username=heena-jindal&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heena-jindal&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heena-jindal&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heena-jindal&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=heena-jindal&theme=tokyonight)
 
