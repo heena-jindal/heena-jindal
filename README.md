@@ -40,13 +40,21 @@
 
 ## 📂 Featured Projects
 
-### 🌟 VibeVerse
+### 🌟 [VibeVerse](https://github.com/heena-jindal/VibeVerse)
 
 A modern social platform designed for introverts to connect through shared interests, communities, and meaningful interactions. Built using Next.js and Flask with a focus on user experience and engagement.
 
-### 🎓 Smart College Assistant
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+
+### 🎓 [Smart College Assistant](https://github.com/heena-jindal/smart-college-assistant)
 
 Full-stack student assistance platform featuring academic resources, chatbot support, attendance management, and student-focused services.
+
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
 
 ### 🔐 Fake Certificate Detection ML
 
@@ -71,7 +79,7 @@ Machine Learning project using Linear Regression techniques to predict house pri
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/heena-jindal-46581231a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn: https://www.linkedin.com/in/heena-jindal-46581231a/
 - Email: hjindal918@gmail.com
 
 ---
