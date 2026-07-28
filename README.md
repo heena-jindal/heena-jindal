@@ -59,14 +59,14 @@ An AI-powered Delhi Metro navigation platform built with **Next.js** and **Flask
 
 ### 🌟 [VibeVerse](https://github.com/heena-jindal/VibeVerse)
 
-An AI-powered student wellness platform built with **Next.js** and **Flask**, combining real-time sentiment analysis (TextBlob), journaling, mood-based music recommendations (Spotify API), and movie suggestions (TMDb API).
+An AI-powered student wellness platform built with **Next.js** and **Flask**, combining real-time sentiment analysis (TextBlob), journaling, mood-based music recommendations (Spotify API).
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TextBlob](https://img.shields.io/badge/TextBlob-00A98F?style=for-the-badge)
 ![Spotify_API](https://img.shields.io/badge/Spotify_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-![TMDb_API](https://img.shields.io/badge/TMDb_API-01D277?style=for-the-badge)
+
 
 ---
 
