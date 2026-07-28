@@ -1,15 +1,16 @@
 # Hi, I'm Heena Jindal 👋
 
-### AI/ML Enthusiast | Python Developer | BTech Student
+### AI/ML Engineer in the making | Python Developer | B.Tech Student
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BTech student passionate about AI & Machine Learning
-- 🐍 Python developer exploring real-world projects
-- 📚 Learning Data Science, Flask, and Cloud Technologies
-- 💡 Interested in building impactful AI solutions
+- 🎓 Third-year B.Tech student in AI/ML at Delhi Technical Campus (GGSIPU) — CGPA 8.99/10
+- 🛠️ I've shipped four full-stack AI/ML products, end-to-end — from model to live deployment
+- 🌱 Currently deepening my skills in **Generative AI and agentic AI systems**
+- 💼 Open to Software Engineering / AI-ML internships
+- 🌐 Portfolio: **[heena-portfolio-ten.vercel.app](https://heena-portfolio-ten.vercel.app/)**
 
 ---
 
@@ -19,16 +20,19 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Libraries & Frameworks
+### Frameworks & Libraries
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Tools
 
@@ -36,25 +40,26 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ---
 
 # 🚀 Featured Projects
 
 ### 🚇 [MetroVerse](https://github.com/heena-jindal/MetroVerse)
 
-An AI-powered Delhi Metro navigation platform built with **Next.js** and **Flask**. It provides intelligent route planning, ML-based crowd prediction, fare estimation, digital ticket generation, chatbot assistance, station autocomplete, live metro status, and nearby tourist attractions.
+An AI-powered Delhi Metro navigation platform built with **Next.js** and **Flask**. Dijkstra-based route planning across 250+ stations, an ML-based crowd prediction model, fare estimation, digital ticketing, a Llama 3.3 AI chatbot assistant, and live metro status.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 ### 🌟 [VibeVerse](https://github.com/heena-jindal/VibeVerse)
 
-An AI-powered student wellness platform built using **Next.js** and **Flask** that combines mood detection, journaling, personalized music recommendations, and movie suggestions to support students' mental well-being.
+An AI-powered student wellness platform built with **Next.js** and **Flask**, combining real-time sentiment analysis (TextBlob), journaling, mood-based music recommendations (Spotify API), and movie suggestions (TMDb API).
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -67,20 +72,20 @@ An AI-powered student wellness platform built using **Next.js** and **Flask** th
 
 ### 🎓 [Smart College Assistant](https://github.com/heena-jindal/smart-college-assistant)
 
-An AI-powered college management platform featuring chatbot support, face recognition attendance, academic resource management, leave applications, attendance tracking, and an interactive student dashboard.
+An AI-powered college management platform: a bilingual (Hindi/English) NLP chatbot trained on 500+ QA pairs, academic resource management, attendance tracking, and an interactive student dashboard.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ### 🔐 [Fake Certificate Detection ML](https://github.com/heena-jindal/fake-certificate-detection-ml)
 
-A Machine Learning project for detecting fraudulent certificates using classification techniques and data preprocessing.
+A Random Forest classifier trained on 34,000+ certificate records to automatically flag fraudulent documents, achieving 84% classification accuracy after data preprocessing and feature engineering.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -99,20 +104,21 @@ A Machine Learning project that predicts house prices using Linear Regression an
 
 ---
 
-## 📈 Current Learning Goals
+## 📈 Currently Learning
 
-- Machine Learning Algorithms
-- Flask Development
-- Data Analysis
-- Cloud Computing
-- AI Project Development
+- Generative AI & Agentic AI Systems
+- System Design & Cloud Computing
+- Advanced Data Structures & Algorithms
+- Deep Learning
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/heena-jindal-46581231a/
-- Email: hjindal918@gmail.com
+- 🌐 Portfolio: [heena-portfolio-ten.vercel.app](https://heena-portfolio-ten.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/heena-jindal-46581231a](https://www.linkedin.com/in/heena-jindal-46581231a/)
+- 📧 Email: hjindal918@gmail.com
+- 💻 LeetCode: [70+ problems solved](https://leetcode.com/u/heena03/)
 
 ---
 
