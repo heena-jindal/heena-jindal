@@ -47,8 +47,7 @@
 
 ### 🚇 [MetroVerse](https://github.com/heena-jindal/MetroVerse)
 
-An AI-powered Delhi Metro navigation platform built with **Next.js** and **Flask**. Dijkstra-based route planning across 250+ stations, an ML-based crowd prediction model, fare estimation, digital ticketing, a Llama 3.3 AI chatbot assistant, and live metro status.
-
+An AI-powered Delhi Metro navigation platform built with **Next.js** and **Flask**. Dijkstra-based route planning across 262 stations on 11 metro lines, an ML-based crowd prediction model, fare estimation, digital ticketing, a Llama 3.3 AI chatbot assistant, and live metro status.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
