@@ -1,7 +1,6 @@
 # Hi, I'm Heena Jindal 👋
 
-### AI/ML Engineer in the making | Python Developer | B.Tech Student
-
+### Building AI-powered applications with LLMs, RAG, Agentic AI, Next.js & Flask
 ---
 
 ## 🚀 About Me
@@ -45,51 +44,70 @@
 
 # 🚀 Featured Projects
 
+### 🤖 [AI Study Companion](https://github.com/heena-jindal/AI_study_Companion)
+
+An AI-powered backend application that helps students learn more effectively using **LLMs, RAG, Agentic AI, and structured evaluation**. Built with Flask, LangGraph, ChromaDB, SQLite, and Groq, it generates quizzes from study material, tracks learning progress, identifies weak topics, and performs hallucination checks using an LLM-as-a-Judge evaluation pipeline.
+
+**✨ Key Features**
+- 📄 Retrieval-Augmented Generation (RAG) using PDFs
+- 🤖 LangGraph ReAct Agent for autonomous tool selection
+- 📚 ChromaDB vector database with similarity-based retrieval
+- 📝 Structured quiz generation using Groq + Pydantic
+- 📊 Performance tracking with SQLite
+- ✅ Hallucination detection using LLM-as-a-Judge evaluation
+- 🚀 Live deployment on Render
+
+🔗 **Live Demo:** https://ai-study-companion-m5qc.onrender.com
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+
+---
+
 ### 🚇 [MetroVerse](https://github.com/heena-jindal/MetroVerse)
 
-An AI-powered Delhi Metro navigation platform built with **Next.js** and **Flask**. Dijkstra-based route planning across 262 stations on 11 metro lines, an ML-based crowd prediction model, fare estimation, digital ticketing, a Llama 3.3 AI chatbot assistant, and live metro status.
+An AI-powered Delhi Metro navigation platform built with **Next.js** and **Flask** featuring intelligent route planning, crowd prediction, chatbot assistance, fare estimation, e-ticket generation, station autocomplete, live metro status, and nearby tourist attractions.
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
 ---
 
 ### 🌟 [VibeVerse](https://github.com/heena-jindal/VibeVerse)
 
-An AI-powered student wellness platform built with **Next.js** and **Flask**, combining real-time sentiment analysis (TextBlob), journaling, mood-based music recommendations (Spotify API).
+An AI-powered student wellness platform that provides mood detection, journaling, personalized music recommendations, and movie suggestions using **Next.js** and **Flask**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TextBlob](https://img.shields.io/badge/TextBlob-00A98F?style=for-the-badge)
-![Spotify_API](https://img.shields.io/badge/Spotify_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-
 
 ---
 
 ### 🎓 [Smart College Assistant](https://github.com/heena-jindal/smart-college-assistant)
 
-An AI-powered college management platform: a bilingual (Hindi/English) NLP chatbot trained on 500+ QA pairs, academic resource management, attendance tracking, and an interactive student dashboard.
+An AI-powered college management platform featuring chatbot support, attendance management, face recognition, leave management, and student dashboards.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ### 🔐 [Fake Certificate Detection ML](https://github.com/heena-jindal/fake-certificate-detection-ml)
 
-A Random Forest classifier trained on 34,000+ certificate records to automatically flag fraudulent documents, achieving 84% classification accuracy after data preprocessing and feature engineering.
+A Machine Learning pipeline that detects fraudulent certificates using custom feature engineering and Random Forest classification.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -99,10 +117,6 @@ A Machine Learning project that predicts house prices using Linear Regression an
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-0A66C2?style=for-the-badge)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
-
 ## 📈 Currently Learning
 
 - Generative AI & Agentic AI Systems
