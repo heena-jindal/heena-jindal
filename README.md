@@ -14,9 +14,14 @@
 
 <br>
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heena-jindal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heena-jindal-46581231a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://heena-portfolio-ten.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjindal918@gmail.com)
+
+</div>
 
 </div>
 
@@ -292,8 +297,12 @@ Currently strengthening problem-solving skills for technical interviews through 
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge)](https://heena-portfolio-ten.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heena%20Jindal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heena-jindal-46581231a/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-heena--jindal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heena-jindal)
+
 [![Email](https://img.shields.io/badge/Email-hjindal918%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjindal918@gmail.com)
 
 </div>
