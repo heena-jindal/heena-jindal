@@ -341,23 +341,6 @@ Currently strengthening problem-solving skills for technical interviews through 
 ╰──────────────────────────────────────────────────╯
 ```
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=heena-jindal&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heena-jindal&layout=compact&theme=tokyonight&hide_border=true" height="180">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=heena-jindal&theme=tokyonight&hide_border=true">
-
-</div>
-
----
 
 # 🐍 Contribution Activity
 
