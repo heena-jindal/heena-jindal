@@ -131,14 +131,14 @@
 
 > An agentic AI system that transforms a learning topic into a complete, narrated explainer video — from educational planning to programmatic visual generation and final video assembly.
 
-[![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-1C3C3C?style=for-the-badge)]
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-[![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge)]
-[![Manim](https://img.shields.io/badge/Manim-Animation-000000?style=for-the-badge)]
-[![Piper](https://img.shields.io/badge/Piper-TTS-6A5ACD?style=for-the-badge)]
-[![FFmpeg](https://img.shields.io/badge/FFmpeg-Video_Processing-007808?style=for-the-badge)]
-[![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white)]
-[![SQLite](https://img.shields.io/badge/SQLite-Persistence-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-1C3C3C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge)
+![Manim](https://img.shields.io/badge/Manim-Animation-000000?style=for-the-badge)
+![Piper](https://img.shields.io/badge/Piper-TTS-6A5ACD?style=for-the-badge)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-Video_Processing-007808?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Persistence-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **🧠 AI Pipeline**
 `Topic → Planner Agent → Narration Agent → Visual Agent → Video Assembly`
