@@ -127,22 +127,32 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 AI Study Video Generator
-> An agentic AI system that transforms a learning topic into an educational video using LLM planning, AI narration, programmatic Manim animations, and automated video assembly.
+### 🎬 Study-Material-to-Video Agent
 
-**Highlights:**
-- 🤖 Multi-agent pipeline built with **LangGraph**
-- 🧠 LLM-based educational scene planning
-- 🔊 **Piper TTS** for AI narration
-- 🎨 Programmatic mathematical animations using **Manim**
-- ⏱️ Audio-aware visual synchronization
-- 🔄 Automatic retry for failed Manim renders
-- 🎬 **FFmpeg** based video assembly
-- ⚙️ Asynchronous job processing with persistent **SQLite** tracking
+> An agentic AI system that transforms a learning topic into a complete, narrated explainer video — from educational planning to programmatic visual generation and final video assembly.
 
-**Tech:** Python · Flask · LangGraph · LLMs · Piper TTS · Manim · FFmpeg · SQLite · Docker
+[![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-1C3C3C?style=for-the-badge)]
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge)]
+[![Manim](https://img.shields.io/badge/Manim-Animation-000000?style=for-the-badge)]
+[![Piper](https://img.shields.io/badge/Piper-TTS-6A5ACD?style=for-the-badge)]
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-Video_Processing-007808?style=for-the-badge)]
+[![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white)]
+[![SQLite](https://img.shields.io/badge/SQLite-Persistence-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]
 
-🔗 [Repository](https://github.com/heena-jindal/ai-study-video-generator)
+**🧠 AI Pipeline**
+`Topic → Planner Agent → Narration Agent → Visual Agent → Video Assembly`
+
+**⚙️ Key Engineering Highlights**
+- 🤖 **4 specialized LangGraph agents** orchestrated as a structured multi-agent pipeline
+- 🧭 **Planner Agent** creates pedagogical shot sequences with consistent example datasets
+- 🔊 **Narration-first generation** using Piper TTS, with actual measured audio duration passed to the Visual Agent
+- 🎨 **Code-generating Visual Agent** creates and renders Manim animations programmatically
+- 🔄 **Self-correcting Manim generation** using real rendering errors for regeneration
+- 🎬 **FFmpeg-based assembly** for combining audio, visuals, and final video
+- ⚙️ **Asynchronous job processing** with persistent SQLite job tracking
+
+🔗 [Repository](https://github.com/heena-jindal/ai-study-video-generator) • [Live Frontend](https://ai-study-video-generator.vercel.app/)
 
 
 # 🤖 AI Study Companion
@@ -218,9 +228,6 @@ The system generates quizzes from study material, tracks performance, identifies
 
 🔗 **[Live Deployment](https://ai-study-companion-m5qc.onrender.com)**
 
----
-
-# 🚀 Featured Projects
 
 ## 🚇 MetroVerse
 
