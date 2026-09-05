@@ -125,6 +125,26 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🎬 AI Study Video Generator
+> An agentic AI system that transforms a learning topic into an educational video using LLM planning, AI narration, programmatic Manim animations, and automated video assembly.
+
+**Highlights:**
+- 🤖 Multi-agent pipeline built with **LangGraph**
+- 🧠 LLM-based educational scene planning
+- 🔊 **Piper TTS** for AI narration
+- 🎨 Programmatic mathematical animations using **Manim**
+- ⏱️ Audio-aware visual synchronization
+- 🔄 Automatic retry for failed Manim renders
+- 🎬 **FFmpeg** based video assembly
+- ⚙️ Asynchronous job processing with persistent **SQLite** tracking
+
+**Tech:** Python · Flask · LangGraph · LLMs · Piper TTS · Manim · FFmpeg · SQLite · Docker
+
+🔗 [Repository](https://github.com/heena-jindal/ai-study-video-generator)
+
+
 # 🤖 AI Study Companion
 
 ### An AI-powered study companion built around LLMs, RAG, Agentic AI and evaluation.
