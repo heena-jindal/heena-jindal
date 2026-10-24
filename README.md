@@ -1,436 +1,94 @@
-<div align="center">
+# Hi, I'm Heena Jindal 👋
 
-# 👋 Hi, I'm Heena Jindal
+**B.Tech student (AI & ML) building RAG and agentic AI systems.**
+Python · LangGraph · ChromaDB · Groq · Flask · Next.js
 
-### 🤖 AI/ML Engineer in the making
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heena-jindal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heena-jindal-46581231a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://heena-portfolio-ten.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjindal918@gmail.com)
 
-**Building intelligent applications with Python, ML, GenAI & Agentic AI**
+Open to AI / GenAI internships.
+
+---
+
+## Featured projects
+
+### 🎬 [Study-Material-to-Video Agent](https://github.com/heena-jindal/ai-study-video-generator)
+A multi-agent LangGraph pipeline that turns a topic into a narrated, animated explainer video.
+
+- **Planner → Narration → Visual → Assembler** agents, run as a structured pipeline
+- Narration is generated first, and its **measured audio duration** paces the animation
+- The visual agent writes **Manim** code and **retries with the real render error** when a render fails
+- Async job processing with SQLite job tracking, FFmpeg assembly, Docker setup
+- Honest **Known Limitations** section in the repo
+
+`LangGraph` `Groq` `Manim` `Piper TTS` `FFmpeg` `Flask` `Next.js` `SQLite` `Docker`
+
+[Repository](https://github.com/heena-jindal/ai-study-video-generator) · [Live frontend](https://ai-study-video-generator.vercel.app/)
+
+---
+
+### 🤖 [AI Study Companion](https://github.com/heena-jindal/AI_study_Companion)
+A backend-only study tool that covers the GenAI stack end to end: structured output, RAG, a tool-calling agent and evaluation.
+
+- **RAG** over uploaded PDFs: chunking with overlap, local embeddings, ChromaDB, similarity-threshold filtering
+- **LangGraph ReAct agent** that decides which tool to use, e.g. "quiz me on my weak topics"
+- **Schema-enforced quizzes** via Groq Structured Outputs, plus SQLite weak-topic tracking
+- **LLM-as-a-judge** faithfulness check to catch answers not grounded in the retrieved context
+
+`LangGraph` `ChromaDB` `Sentence-Transformers` `Groq` `Pydantic` `Flask` `SQLite`
+
+[Repository](https://github.com/heena-jindal/AI_study_Companion) · [Live API](https://ai-study-companion-m5qc.onrender.com) *(free tier, may be slow on first request)*
+
+---
+
+### 🚇 [MetroVerse](https://github.com/heena-jindal/MetroVerse)
+An AI-powered Delhi Metro platform with route planning, ML-based crowd prediction, fare estimation, digital tickets, chatbot assistance and nearby attractions.
+
+`Next.js` `Flask` `Python` `Machine Learning`
+
+---
+
+### 🌟 [VibeVerse](https://github.com/heena-jindal/VibeVerse)
+An AI companion for introverted and socially anxious students: mood-aware chat, journaling, challenges and music/movie recommendations, with a crisis-safety branch that skips the AI and shows a helpline.
+
+`Next.js` `Flask` `LangGraph` `Groq`
+
+---
+
+<details>
+<summary><b>Earlier projects</b></summary>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications+%F0%9F%A4%96;Exploring+Generative+AI+%F0%9F%A7%A0;Building+RAG+pipelines+%F0%9F%93%9A;Exploring+Agentic+AI+%F0%9F%9A%80;Turning+ideas+into+working+projects+%F0%9F%92%A1;Always+learning%2C+building+%26+improving+%F0%9F%8C%B1" alt="Typing animation">
+- **[Smart College Assistant](https://github.com/heena-jindal/smart-college-assistant)**: academic resources, chatbot support, attendance management and leave applications (Next.js, TypeScript, Flask).
+- **[Fake Certificate Detection](https://github.com/heena-jindal/fake-certificate-detection-ml)**: feature engineering and a Random Forest classifier to flag potentially fraudulent certificates.
+- **[House Price Prediction](https://github.com/heena-jindal/house-price-prediction-linear-regression)**: linear regression on real housing data (scikit-learn).
 
-<br><br>
-
-<a href="https://github.com/heena-jindal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/heena-jindal-46581231a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://heena-portfolio-ten.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-<a href="mailto:hjindal918@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header" width="100%">
-
-</div>
+</details>
 
 ---
 
-# 🚀 About Me
+## Tech stack
 
-- 🎓 BTech student passionate about **AI & Machine Learning**
-- 🐍 Python developer exploring real-world projects
-- 🤖 Building applications using **Generative AI, RAG and Agentic AI**
-- 📚 Learning **Data Science, Flask, AI Engineering and Cloud Technologies**
-- 💡 Interested in building impactful AI solutions
-- 🧠 Currently strengthening **Machine Learning, GenAI and DSA**
-- 🎯 Preparing for **AI/ML and Software Engineering internship opportunities**
-
----
-
-# 🧠 My AI Journey
-
-```text
-                         🐍 PYTHON
-                             │
-                             ▼
-                    📊 DATA ANALYSIS
-                     NumPy • Pandas
-                             │
-                             ▼
-                  🤖 MACHINE LEARNING
-                    Scikit-learn
-                             │
-                             ▼
-                   🧠 DEEP LEARNING
-                             │
-                             ▼
-                  ✨ GENERATIVE AI
-                     LLMs • Prompts
-                             │
-                             ▼
-                         📚 RAG
-                Embeddings • Retrieval
-                             │
-                             ▼
-                    🤖 AGENTIC AI
-                  LangGraph • Tools
-                             │
-                             ▼
-                  🔬 AI ENGINEERING
-             Evaluation • Deployment • APIs
-```
-
-<div align="center">
-
-`Python` → `ML` → `GenAI` → `RAG` → `Agentic AI` → `AI Engineering`
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-# 🛠 Tech Stack
-
-### 👩‍💻 Languages & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🤖 AI / ML
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🧠 Generative AI
-
-![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
-
-### 🔧 Development & Tools
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🎬 Study-Material-to-Video Agent
-
-> An agentic AI system that transforms a learning topic into a complete, narrated explainer video — from educational planning to programmatic visual generation and final video assembly.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-1C3C3C?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge)
-![Manim](https://img.shields.io/badge/Manim-Animation-000000?style=for-the-badge)
-![Piper](https://img.shields.io/badge/Piper-TTS-6A5ACD?style=for-the-badge)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-Video_Processing-007808?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Persistence-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**🧠 AI Pipeline**
-`Topic → Planner Agent → Narration Agent → Visual Agent → Video Assembly`
-
-**⚙️ Key Engineering Highlights**
-- 🤖 **4 specialized LangGraph agents** orchestrated as a structured multi-agent pipeline
-- 🧭 **Planner Agent** creates pedagogical shot sequences with consistent example datasets
-- 🔊 **Narration-first generation** using Piper TTS, with actual measured audio duration passed to the Visual Agent
-- 🎨 **Code-generating Visual Agent** creates and renders Manim animations programmatically
-- 🔄 **Self-correcting Manim generation** using real rendering errors for regeneration
-- 🎬 **FFmpeg-based assembly** for combining audio, visuals, and final video
-- ⚙️ **Asynchronous job processing** with persistent SQLite job tracking
-
-🔗 [Repository](https://github.com/heena-jindal/ai-study-video-generator) • [Live Frontend](https://ai-study-video-generator.vercel.app/)
-
-
-# 🤖 AI Study Companion
-
-### An AI-powered study companion built around LLMs, RAG, Agentic AI and evaluation.
-
-The system generates quizzes from study material, tracks performance, identifies weak topics and uses an agent to autonomously select appropriate tools.
-
-### 🔄 Architecture
-
-```text
-                         📄 STUDY PDF
-                              │
-                              ▼
-                    ┌──────────────────┐
-                    │ PDF Ingestion    │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ✂️ Chunking + Overlap
-                             │
-                             ▼
-                    🧠 Local Embeddings
-                             │
-                             ▼
-                       🗄️ ChromaDB
-                             │
-                             ▼
-                         🔎 Retrieval
-                             │
-                             ▼
-                           🧠 LLM
-                             │
-                    ┌────────┴─────────┐
-                    │                  │
-                    ▼                  ▼
-              📝 Quiz Tool       🤖 ReAct Agent
-                    │                  │
-                    │          ┌───────┴────────┐
-                    │          ▼                ▼
-                    │     Quiz History      Weak Topics
-                    │          │                │
-                    └──────────┴────────────────┘
-                               │
-                               ▼
-                     🔬 LLM-as-a-Judge
-                               │
-                               ▼
-                     ✅ Grounded Response
-```
-
-### ✨ Key Features
-
-- 📄 PDF ingestion and RAG
-- 🧠 ChromaDB retrieval
-- 🤖 LangGraph ReAct Agent
-- 📝 Structured outputs using Groq + Pydantic
-- 📊 SQLite-based learning history
-- 🔍 LLM-as-a-Judge evaluation
-- 🚀 Live deployment
-
-**Built to explore AI engineering concepts through a real working system.**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
-
-🔗 **[GitHub Repository](https://github.com/heena-jindal/AI_study_Companion)**
-
-🔗 **[Live Deployment](https://ai-study-companion-m5qc.onrender.com)**
-
-
-## 🚇 MetroVerse
-
-An AI-powered Delhi Metro platform featuring intelligent route planning, ML-based crowd prediction, fare estimation, digital ticket generation, chatbot assistance, station autocomplete, live metro status and nearby tourist attractions.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-
-🔗 **[View Repository](https://github.com/heena-jindal/MetroVerse)**
-
----
-
-## 🌟 VibeVerse
-
-An AI-powered platform designed to support students through mood detection, journaling and personalized music and movie recommendations.
-
-Built using **Next.js and Flask**, with a focus on AI-powered personalization and user experience.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-🔗 **[View Repository](https://github.com/heena-jindal/VibeVerse)**
-
----
-
-## 🎓 Smart College Assistant
-
-An AI-powered college assistance platform featuring academic resources, chatbot support, attendance management, leave applications and student-focused services.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-🔗 **[View Repository](https://github.com/heena-jindal/smart-college-assistant)**
-
----
-
-## 🔐 Fake Certificate Detection ML
-
-A Machine Learning pipeline focused on detecting potentially fraudulent certificates using custom feature engineering and Random Forest classification.
-
-### 🔬 ML Pipeline
-
-```text
-Raw Certificate Data
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Validation Features
-        │
-        ▼
-Random Forest
-        │
-        ▼
-Legitimate / Potentially Fake
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-🔗 **[View Repository](https://github.com/heena-jindal/fake-certificate-detection-ml)**
-
----
-
-## 🏠 House Price Prediction
-
-A Machine Learning project using Linear Regression to predict house prices based on real-world housing data.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-0A66C2?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-🔗 **[View Repository](https://github.com/heena-jindal/house-price-prediction-linear-regression)**
-
----
-
-# 📚 Current Learning Goals
-
-- Machine Learning Algorithms
-- Generative AI
-- RAG Pipelines
-- Agentic AI
-- LangGraph
-- AI Evaluation
-- Flask Development
-- Data Analysis
-- Cloud Computing
-- DSA & Interview Problem Solving
-- AI Project Development
-
----
-
-# 💻 DSA & Coding Practice
-
-Currently strengthening problem-solving skills for technical interviews through structured DSA practice.
-
-### Focus Areas
-
-`Arrays` • `Strings` • `Trees` • `Stacks` • `Graphs` • `Dynamic Programming`
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
----
-
-# 💻 Currently Building
-
-```text
-╭──────────────────────────────────────────────────╮
-│                                                  │
-│  $ whoami                                        │
-│  heena-jindal                                    │
-│                                                  │
-│  $ focus                                         │
-│  → Generative AI                                 │
-│  → RAG Pipelines                                 │
-│  → Agentic AI                                    │
-│  → Machine Learning                              │
-│  → DSA & Problem Solving                         │
-│                                                  │
-│  $ status                                        │
-│  ● Learning                                      │
-│  ● Building                                      │
-│  ● Experimenting                                │
-│                                                  │
-╰──────────────────────────────────────────────────╯
-```
-
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heena-jindal/heena-jindal/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heena-jindal/heena-jindal/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/heena-jindal/heena-jindal/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-# 🎯 My Current Focus
-
-<div align="center">
-
-| 🤖 AI | 📚 Learning | 🚀 Building |
-|:---:|:---:|:---:|
-| Generative AI | Advanced ML | AI Applications |
-| RAG | DSA | AI Study Tools |
-| Agentic AI | AI Engineering | Real-world Projects |
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://heena-portfolio-ten.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/heena-jindal-46581231a/">
-<img src="https://img.shields.io/badge/LinkedIn-Heena%20Jindal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/heena-jindal">
-<img src="https://img.shields.io/badge/GitHub-heena--jindal-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="mailto:hjindal918@gmail.com">
-<img src="https://img.shields.io/badge/Email-hjindal918%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=heena-jindal&label=Profile%20Views&color=6C63FF&style=for-the-badge">
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Consistently learning, building, and improving every day.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%">
-
-</div>
+## Currently
+
+- Building an agentic AI system for air-quality hazard forecasting and personalized risk explanation (repo coming soon)
+- Strengthening DSA: arrays, strings, trees, graphs, dynamic programming
+- Learning AI evaluation and cloud deployment
